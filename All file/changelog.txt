@@ -1,0 +1,123 @@
+Copyright (c) 2020 CSC E Governance Services India Limited. All rights reserved.
+
+CHANGELOG
+
+Version 4.2
+-------------
+Release Date: Oct, 23, 2020
+
+Important Bug Fix
+ - Fix for authentication and fingerprint capture speeds
+ - Fix for application crash issues during registration
+ - Passbook module fixed for better data sync
+ - Bug fixes for better UI rendering
+ - Fix in Cash Withdrawal response prints
+
+Version 4.1
+-------------
+Release Date: Oct, 22, 2019
+
+Important Bug Fix
+ - Bug fixes to support 32 bit and 64 bit Windows seamlessly
+ - Fix for authentication and fingerprint capture speeds
+
+Version 4.0
+-------------
+Release Date: Oct, 18, 2019
+
+Domestic Money Transfer
+ - Fund transfer service for users within the country
+Enhanced Payout 
+ - Self service based Payout from DigiPay
+
+
+Version 3.2
+-----------------
+Release Date: Mar 31, 2019
+
+Login Authentication
+ - Introduction of Dual - Factor authentication during login
+
+
+
+Version 3.0
+-----------------
+Release Date: Aug 08, 2018
+
+Registration 
+ - Introduced OTP for User validation
+ - Pre activated ID usage for Terminal registration and activation
+
+Authentication
+ - Migration to Aadhaar Authentication 2.5
+ - Usage of UID token for User authentication
+
+Passbook
+ - Fixes for Ledger sync
+ - Logs viewer fixes
+
+Transactions
+ - PDF receipt generation 
+ - Local storage of transaction receipt
+
+
+
+General
+ - UI Refresh
+ - Security Fixes
+ - TLS 1.2 support only
+ - Aadhaar guidelines compliance upgrade
+ - Removed device drivers , common API 
+
+
+
+Version 2.5
+-----------------
+Release Date: Nov 11, 2017
+
+
+General
+ - Bug Fixes 
+
+
+
+
+Version 2.0
+-----------------
+Release Date: Sep 05, 2017
+
+
+Transaction
+ - Cash Deposit 
+ - Aadhaar Pay
+ - Digipay Passbook
+ - AEPS Transaction support on Aadhaar auth 1.6 & 2.0
+
+General 
+ - Aadhaar Seeding including RRB
+ - Cleint Registration modified with User type support.
+ - User Type Program tagging on server feedback
+
+Authentication
+ - Aadhaar Authentication 2.0 (RD Services)
+ - Updated device management functionality to support public and registered devices.
+
+
+
+
+
+Version 1.0
+-----------------
+Release Date: Dec 08, 2016
+
+
+ - Cash Withdrawal
+ - Balance Enquiry
+ - Aadhaar Seeding
+ - Aadhaar Mapper
+ - Transaction Logs
+ - Local PIN login
+ - Aadhaar Authentication v1.6
+ - Support for 5 STQC certified devices
+   (Morpho, Startek, Mantra, Cogent, Digital Persona, Iritech )
+
